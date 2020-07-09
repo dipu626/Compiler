@@ -1,0 +1,4 @@
+C Compiler written in C:
+
+  1. https://lotabout.me/2016/Let-s-Build-a-C-Interpreter-0/
+  2. https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days
